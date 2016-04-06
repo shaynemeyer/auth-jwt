@@ -1,5 +1,5 @@
 {
-  "name": "auth-sample-1",
+  "name": "auth-jwt",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
